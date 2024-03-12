@@ -1,0 +1,130 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+div{
+  
+  
+}
+#uno{
+  width:20em;
+  height: 20em;
+  background : pink;
+  border: 2px solid black;
+  box-shadow: -5px 5px 30px black;
+  margin:100px;
+  padding: 50px;
+}
+#dos{
+width: 40ex;
+  height:20px;
+  background : pink;
+  border: 2px dashed black;
+  box-shadow: 5px 5px 30px black;
+  margin:100px;
+  padding: 50px;
+}
+  
+  
+  
+
+#tres{
+  width: 30ch;
+  height:200px;
+  background : pink;
+  border: 2px ridge black;
+  box-shadow: 0px 5px 5px black;
+  margin:100px;
+  padding: 50px;
+  
+}
+#cuatro{
+  width: 24rem;
+  height:200px;
+  background :pink;
+  border: 2px double black;
+  box-shadow: 10px 5px 10px black;
+  margin:100px;
+  padding: 50px;
+  
+}
+#cinco{
+  width:26%;
+  height:27%;
+  background :pink;
+  border: 2px dotted black;
+  box-shadow: -10px 5px 5px black;
+  margin:100px;
+  padding: 50px;
+  
+}
+#seis{
+  width: 30px;
+  height: 30px;
+  background :pink;
+  border: 2px groove black;
+  box-shadow: 0px 5px 0px black;
+  margin:100px;
+  padding: 50px;
+  
+}
+#siete{
+  width: 12cm;
+  height: 15cm;
+  background :pink;
+  border: 2px ridge black;
+  box-shadow: 10px 5px 10px black;
+  margin:100px;
+  padding: 50px;
+  
+} 
+#ocho{
+  width: 100mm;
+  height: 100mm;
+  background :pink;
+  border: 2px none black;
+  box-shadow: -20px 10px 50px black;
+  margin:100px;
+  padding: 50px;
+  
+}
+#nueve{
+width: 12q;
+  height: 12q;
+  background : pink;
+  border: 2px hidden black;
+  box-shadow: 15px -10px 10px black;
+  margin:100px;
+  padding: 50px
+
+}
+
+#diez{
+  width:2in;
+  height:2in;
+  background :pink;
+  border: 2px dashed black;
+  box-shadow: -10px 10px 10px black;
+  margin:100px;
+  padding: 50px
+}
+#once{
+  width:18pc;
+  height:17pc;
+  background :pink;
+  border: 2px dashed black;
+  box-shadow: -10px 10px 10px black;
+  margin:100px;
+  padding: 50px
+
+}
+#doce{
+  width:12pt;
+  height:12pt;
+  background :pink;
+  border: 2px dashed black;
+  box-shadow: -10px 10px 10px black;
+  margin:100px;
+  padding: 50px
+}
