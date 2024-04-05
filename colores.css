@@ -1,0 +1,28 @@
+  *{
+  margin: 0;
+  padding: 0;
+  boxing:border-box;
+}
+
+#papa{
+  width: 350px ;
+height: 650px;
+background: pink;
+border: solid black 2px;
+
+margin: 20px auto;
+display: grid;
+grid-template-columns: repeat(4, auto) ;
+grid-template-rows: repeat(4, auto);
+grid-gap: 10px;
+}
+
+.hijo{
+  background: plum;
+  
+}
+#header{
+  background: skyblue;
+  grid-column: 1/4;
+  grid-row: 1/3;
+}

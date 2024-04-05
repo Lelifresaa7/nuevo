@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#papa{
+  width: 350px ;
+height: 350px;
+background: gray;
+border: solid black 1px;
+margin: 20px auto;
+display: grid;
+grid-template-columns: repeat(5, auto) ;
+grid-template-rows: repeat(5, auto);
+grid-gap: 10px;
+}
+
+.hijo{
+  background: plum;
+}
+#header{
+  background: skyblue;
+  grid-column: 1/4
+}
+#hola{
+  background: blue;
+  grid-column: 1/4
+}
+#jaja{
+  background: lightgray;
+  grid-row: 3/6
+}
+#ola{
+  background: yellow ;
+  grid-row: 3/6
+}
+#orales{
+  background: red;
+
+}

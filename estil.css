@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+  div{
+    width:70px;
+    height:70px; 
+    border:6px solid black ; 
+    margin: 2px;
+    display:inline-block;
+   border-radius: 10px 10px 10px 5px;
+  }
+  
+  #relativo{
+    background: rgba(255, 0, 0, 0.7);
+    position: relative;
+    top: 1000px;
+    left: 100px;
+  }
+  #absoluto{
+    background: rgba(0, 255, 0, 0.5);
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+  }
+  #fijo{
+    
+  }
