@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#caja{
+  width:40px ;
+  height: 40px;
+    border: 2px ridge black;
+    margin:10px;
+    padding: 50px;
+}
+#caja2{
+  width:600px ;
+  height: 600px;
+    border: 2px ridge black;
+    margin:10px;
+    padding: 50px;
+}
+#grandee{
+  border: 2px solid black;
+}
